@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gifexpertappmenna/static/css/main.d5fada9a.chunk.css",
+    "main.js": "/react-gifexpertappmenna/static/js/main.71a43bd7.chunk.js",
+    "main.js.map": "/react-gifexpertappmenna/static/js/main.71a43bd7.chunk.js.map",
+    "runtime-main.js": "/react-gifexpertappmenna/static/js/runtime-main.9cd49c22.js",
+    "runtime-main.js.map": "/react-gifexpertappmenna/static/js/runtime-main.9cd49c22.js.map",
+    "static/js/2.49446f5b.chunk.js": "/react-gifexpertappmenna/static/js/2.49446f5b.chunk.js",
+    "static/js/2.49446f5b.chunk.js.map": "/react-gifexpertappmenna/static/js/2.49446f5b.chunk.js.map",
+    "index.html": "/react-gifexpertappmenna/index.html",
+    "static/css/main.d5fada9a.chunk.css.map": "/react-gifexpertappmenna/static/css/main.d5fada9a.chunk.css.map",
+    "static/js/2.49446f5b.chunk.js.LICENSE.txt": "/react-gifexpertappmenna/static/js/2.49446f5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cd49c22.js",
+    "static/js/2.49446f5b.chunk.js",
+    "static/css/main.d5fada9a.chunk.css",
+    "static/js/main.71a43bd7.chunk.js"
+  ]
+}
